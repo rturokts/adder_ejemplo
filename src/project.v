@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2024 Jason Kaufmann
+ * Copyright (c) 2024 Arturo Torres
  * SPDX-License-Identifier: Apache-2.0
  */
 
